@@ -18,9 +18,9 @@ los juegos de Nintendo que mis padres me compraban, pero eran juegos que yo
 mismo hice.
 
 Ahora, de adulto, aún me divierto programando y me pagan por hacerlo. Pero
-incluso si usted no quiere convertirse en una programadora de computadoras,
+incluso si usted no quiere convertirse en una persona programadora de computadoras,
 programar es una habilidad útil y divertida. Entrena al cerebro a pensar de
-forma lógica, hacer planes y reconsiderar sus ideas siempre que encuentra
+forma lógica, hacer planes y a reconsiderar sus ideas cuando encuentra
 errores en su código.
 
 Muchos libros de programación para principiantes caen en dos categorías. La
@@ -28,33 +28,33 @@ primera incluye libros que no enseñan tanto a programar sino que enseñan
 «programas de creación de juegos», o lenguajes que simplifican tanto que lo que
 enseñan ya no es programación. La otra categoría consiste en libros que enseñan
 programación como un libro de texto de matemáticas--todos los principios y
-conceptos, con pocas aplicaciones para la vida real de la lectora. Este libro
-toma un enfoque diferente y enseña cómo programar haciendo vídeo juegos.
+conceptos, con pocas aplicaciones para la vida real de la persona lectora. Este libro
+toma un enfoque diferente y enseña cómo programar haciendo videojuegos.
 Enseño el código fuente de los juegos justo al frente, y explico principios de
-programación a partir de los ejemplos. Este enfoque fue la clave para mi cuando
+programación a partir de los ejemplos. Este enfoque fue la clave para mí cuando
 estaba aprendiendo a programar. Entre más aprendía cómo trabajaban los
 programas de otras personas, más ideas tenía para mis propios programas.
 
-Todo lo que necesita es una computadora, un software libre llamado intérprete
+Todo lo que necesita es una computadora, un programa libre llamado intérprete
 de Python y este libro. Una vez que haya aprendido cómo crear los juegos de
 este libro, será capaz de desarrollar juegos por su propia cuenta.
 
 Las computadoras son máquinas increíbles, y aprender a programarlas no es tan
 difícil como la gente piensa. Un *programa* de computadora es un puñado de
 instrucciones que la computadora puede entender, así como un libro de cuentos
-es un puñado de oraciones que la lectora puede entender. Para darle una
+es un puñado de oraciones que una persona lectora puede entender. Para darle una
 instrucción a una computadora, usted escribe un programa en un lenguaje que la
 computadora entienda. Este libro le enseñará un lenguaje de programación
 llamado Python. Hay muchos otros lenguajes de programación que puede aprender,
 como BASIC, Java, JavaScript, PHP y C++.
 
-Cuando era niño yo aprendí BASIC, pero lenguajes de programación nuevos como
+Cuando era niño, yo aprendí BASIC, pero lenguajes de programación nuevos como
 Python son aún más fáciles de aprender. Python también es usado por
-programadoras profesionales en su trabajo *y* cuando programan para divertirse.
+personas programadoras profesionales en su trabajo *y* cuando programan por diversión.
 Además, es totalmente gratis para instalar y usar--usted sólo necesitará una
 conexión a Internet para descargarlo.
 
-Dado que los vídeo juegos no son más que programas de computadoras, estos
+Dado que los videojuegos no son más que programas de computadoras, estos
 también están hechos de instrucciones. Los juegos que creará desde este libro
 parecen sencillos comparados con los juegos de Xbox, PlayStation o Nintendo.
 Estos juegos no tienen gráficos lujosos porque su objetivo es enseñarle lo

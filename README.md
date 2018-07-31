@@ -21,7 +21,7 @@ de [Al Sweigart](https://twitter.com/AlSweigart).
 * [@tian2992](https://github.com/tian2992)
 * [@dtec83](https://github.com/dtec83)
 
-## Contribuír
+## Contribuir
 
 La traducción de este libro la estamos haciendo en comunidad. Invitamos a participar a todas las personas que quieran aprender o enseñar sobre Python.
 
